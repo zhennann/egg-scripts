@@ -1,6 +1,6 @@
 {
   "name": "@zhennann/egg-scripts",
-  "version": "2.17.0",
+  "version": "2.17.1",
   "description": "deploy tool for egg project",
   "main": "index.js",
   "bin": {
@@ -8,7 +8,7 @@
     "eggctl": "bin/egg-scripts.js"
   },
   "dependencies": {
-    "@zhennann/common-bin": "^2.9.9",
+    "@zhennann/common-bin": "^2.9.10",
     "await-event": "^2.1.0",
     "debug": "^4.1.0",
     "egg-utils": "^2.4.1",
